@@ -14,7 +14,7 @@
                                 <div class="card-body">
                                     <h5 class="card-title">site 1</h5>
                                     <p class="card-text">Vue js + BOOTSTRAP</p>
-                                    <a target="_blank" href="#" class="btn btn-primary">Visit</a>
+                                    <a target="_blank" href="https://amine-triki.github.io/vuejs-bootstrap/" class="btn btn-primary">Visit</a>
                                 </div>
                             </div>
                         </div>
