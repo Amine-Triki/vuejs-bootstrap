@@ -13,19 +13,19 @@
           </button>
           <div class="collapse navbar-collapse" id="main">
             <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-              <li class="nav-item">
-                <RouterLink  to="/" class="nav-link  p-2 p-lg-3">Home</RouterLink>
-              </li>
-              <li class="nav-item">
-                <RouterLink to="/skills" class="nav-link  p-2 p-lg-3">Skills</RouterLink>
-              </li>
-              <li class="nav-item">
-                <RouterLink to="/project" class="nav-link  p-2 p-lg-3">projects</RouterLink>
-              </li>
-              <li class="nav-item">
-                <RouterLink to="/contact" class="nav-link  p-2 p-lg-3">Contact Me</RouterLink>
-              </li>
-            </ul>
+          <li class="nav-item">
+            <router-link to="/" class="nav-link p-2 p-lg-3">Home</router-link>
+          </li>
+          <li class="nav-item">
+            <router-link to="/skills" class="nav-link p-2 p-lg-3">Skills</router-link>
+          </li>
+          <li class="nav-item">
+            <router-link to="/project" class="nav-link p-2 p-lg-3">Projects</router-link>
+          </li>
+          <li class="nav-item">
+            <router-link to="/contact" class="nav-link p-2 p-lg-3">Contact Me</router-link>
+          </li>
+        </ul>
           
           </div>
           
