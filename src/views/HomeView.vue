@@ -15,7 +15,7 @@
                   <a href="https://www.instagram.com/mr_amine_triki/" target="_blank"><font-awesome-icon icon="fa-brands fa-instagram" bounce size="2xl" style="color: #962fbf;  margin-right: 15px;" /></a>
               </div>
             </div>
-            <img class="mt-5 mb-5"  src="@/assets/Amine-triki.webp"  alt="Amine Triki" title="Amine Triki"  />
+            <img class="image mt-5 mb-5"  src="@/assets/Amine-triki.webp"  alt="Amine Triki" title="Amine Triki"  />
       </div>
     </section>
   </main>
@@ -33,6 +33,11 @@ section .container h3 {
 max-width: 370px;
 }
 /* end landing*/
-
+/* image */
+@media   (max-width: 576px) {
+  div .image {
+   max-width: 350px ;
+  }
+}
 </style>
 

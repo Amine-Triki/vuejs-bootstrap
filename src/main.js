@@ -25,7 +25,8 @@ library.add(faGithub, faInstagram, faYoutube, faFacebook, faLinkedin, faLocation
 
 
 
-
+//bootstrap css
+import "bootstrap/dist/css/bootstrap.css";
 
 
 const app = createApp(App)
@@ -39,3 +40,7 @@ const app = createApp(App)
 app.use(router)
 
 app.mount('#app')
+
+
+//bootstrap js
+import "bootstrap/dist/js/bootstrap.js";
